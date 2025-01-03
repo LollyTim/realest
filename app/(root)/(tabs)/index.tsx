@@ -70,11 +70,6 @@ export default function Index() {
                 </TouchableOpacity>
               </View>
               <Filters />
-              {/* <View className=" flex flex-row gap-5 mt-5 ">
-                <Card />
-                <Card />
-
-              </View> */}
 
             </View>
 
