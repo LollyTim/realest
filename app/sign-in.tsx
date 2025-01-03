@@ -4,14 +4,17 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import images from '@/constants/images'
 import icons from '@/constants/icons'
 import { login } from '@/lib/appwrite'
+import { useGlobalContext } from '@/lib/global-provider'
+import { Redirect } from 'expo-router'
 
 const Signin = () => {
+    const { refetch, loading, isLoggedIn } = useGlobalContext()
+    if (!loading && isLoggedIn) return <Redirect href={"/"} />
     const handleLogin = async () => {
         // Implement Google OAuth login logic here
         const result = await login();
         if (result) {
-            // Redirect to home screen
-            console.log("Login Successfully")
+            refetch();
         } else {
             Alert.alert("Error", "Login Failed")
         }
