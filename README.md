@@ -22,6 +22,6 @@ In the output, you'll find options to open the app in a
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 
-## About projece
+## About projete
 
 This is a real estate application for listion house and land for rental or for sale
