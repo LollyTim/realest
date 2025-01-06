@@ -18,8 +18,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 In the output, you'll find options to open the app in a
 
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-
 ## About projete
 
 This is a real estate application for listion house and land for rental or for sale
