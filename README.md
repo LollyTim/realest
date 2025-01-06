@@ -20,4 +20,19 @@ In the output, you'll find options to open the app in a ios ,android and web bro
 
 ## About projete
 
-This is a real estate application for listion house and land for rental or for sale
+## Features
+
+- **Listings**: Displays a list of houses and land
+- **Details**: Displays more information about a listing
+- **Search**: Allows users to search for listings by location, price range, and property type
+- **Auth**: Users can register, login, and logout using google auth
+- **Favorites**: Users can save listings to their favorites
+- **Notifications**: Users receive notifications when new listings are added or when their favorite listings change
+- **Map**: Displays a map of the location of the listings
+
+## Tech Stack
+
+- React Native
+- Expo
+- Appwrite (for authentication, database, and notifications)
+- TailwindCSs (NariveWind)
