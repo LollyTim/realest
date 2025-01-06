@@ -20,6 +20,8 @@ In the output, you'll find options to open the app in a ios ,android and web bro
 
 ## About projete
 
+This is a real estate application for listion house and land for rental or for sale
+
 ## Features
 
 - **Listings**: Displays a list of houses and land
@@ -36,3 +38,14 @@ In the output, you'll find options to open the app in a ios ,android and web bro
 - Expo
 - Appwrite (for authentication, database, and notifications)
 - TailwindCSs (NariveWind)
+
+## Support
+
+If you need help or have any questions, please don't hesitate to reach out. You can contact
+
+- Me on [Twitter](https://twitter.com/Sanya_Ololade)
+- Me on [LinkedIn](https://www.linkedin.com/in/sanya-olu-dele-olade-b89576196/)
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute, please submit a pull request or open an issue. I'm here to help!
