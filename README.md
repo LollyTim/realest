@@ -44,7 +44,7 @@ This is a real estate application for listion house and land for rental or for s
 If you need help or have any questions, please don't hesitate to reach out. You can contact
 
 - Me on [Twitter](https://twitter.com/Sanya_Ololade)
-- Me on [LinkedIn](https://www.linkedin.com/in/sanya-olu-dele-olade-b89576196/)
+<!-- - Me on [LinkedIn](https://www.linkedin.com/in/sanya-olu-dele-olade-b89576196/) -->
 
 ## Contributing
 
