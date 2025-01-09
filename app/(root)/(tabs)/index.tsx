@@ -50,8 +50,8 @@ export default function Index() {
 
       <FlatList
         data={properties}
-        renderItem={(({ item, index }) => (
-          <Card item={item} onPress={() => handlecardPress(item.id)} />
+        renderItem={(({ item }) => (
+          <Card item={item} onPress={() => handlecardPress(item.$id)} />
         ))}
         keyExtractor={(item) => item.$id.toString()}
         numColumns={2}
@@ -94,7 +94,7 @@ export default function Index() {
                 data={latestProperties}
                 keyExtractor={(item, index) => item.$id.toString()}
                 horizontal
-                renderItem={({ item, index }) => <FeaturedCard key={index} item={item} onPress={() => handlecardPress(item.id)} />}
+                renderItem={({ item, index }) => <FeaturedCard key={index} item={item} onPress={() => handlecardPress(item.$id)} />}
                 bounces={false}
                 showsHorizontalScrollIndicator={false}
                 contentContainerClassName="gap-5 mt-5"

@@ -50,7 +50,7 @@ export default function Explore() {
             <FlatList
                 data={properties}
                 renderItem={(({ item, index }) => (
-                    <Card item={item} onPress={() => handlecardPress(item.id)} />
+                    <Card item={item} onPress={() => handlecardPress(item.$id)} />
                 ))}
                 keyExtractor={(item) => item.$id.toString()}
                 numColumns={2}
