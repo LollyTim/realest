@@ -24,7 +24,6 @@ const Filters = () => {
                     <Text className={`text-sm ${selectedCategory === item.category ? "text-white font-rubik-bold mt-0.5" : "text-black-300 font-rubik"}`}>{item.title}</Text>
                 </TouchableOpacity>
             ))}
-
         </ScrollView>
     )
 }
