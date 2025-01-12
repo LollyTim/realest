@@ -48,4 +48,4 @@ If you need help or have any questions, please don't hesitate to reach out. You 
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please submit a pull request or open an issue. I'm here to help!
+Contributions are welcome! If you'd to contribute, please submit a pull request or open an issue. I'm here to help!
