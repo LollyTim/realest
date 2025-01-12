@@ -47,5 +47,3 @@ If you need help or have any questions, please don't hesitate to reach out. You 
 - Me on [LinkedIn](https://www.linkedin.com/in/ololade-sanya-106990272/)
 
 ## Contributing
-
-Contributions are welcome! If you'd like to contribute, please submit a pull request or open an issue. I'm here to help!
