@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lollytech1.restate"
     },
     "web": {
       "bundler": "metro",
@@ -49,6 +50,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4f11b2ba-8ff9-4801-9d79-0d4e0323ad64"
+      }
+    },
+    "owner": "lollytech1"
   }
 }
